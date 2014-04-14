@@ -8,7 +8,7 @@
 
 	foreach($files1 as $element)
 	{
-		 echo "<a href='".$elemnt."'> ".$elem."</a><br>";
+		 echo "<a href='".$elemnt."'> ".$elemnt."</a><br>";
 	}
 	echo "</div>";
 ?>
